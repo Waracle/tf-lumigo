@@ -1,0 +1,26 @@
+{
+  "name": "@waracle/tf-lumigo",
+  "version": "0.0.0",
+  "description": "Build scripts for tf-lumigo Terraform package",
+  "keywords": ["terraform", "lumigo","waracle"],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/waracle/tf-lumigo.git"
+  },
+  "author": {
+    "name": "Waracle Ltd.",
+    "email": "support@waracle.com",
+    "url": "https://waracle.com"
+  },
+  "maintainers": [
+    {
+      "name": "Nick Hammond",
+      "email": "n.hammond@waracle.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@jortfal/semantic-release-terraform-config": "1.0.1",
+    "semantic-release": "18.0.1"
+  }
+}
