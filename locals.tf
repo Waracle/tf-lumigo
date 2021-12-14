@@ -1,1 +1,0 @@
-## "Terraform Module Version" = ".*"
