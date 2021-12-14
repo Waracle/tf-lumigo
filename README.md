@@ -17,6 +17,20 @@ output "lumigo_role_arn" {
   value = module.lumigo.lumigo_role_arn
 }
 ```
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+
+## Authors
+
+Module managed by [Nick Hammond](https://github.com/nhammond101) on behalf of the Waracle team
+
+Please reach out to [Waracle](https://waracle.com) if you are looking to build enterprise applications, especially in highly regulated industries.
+
+## License
+
+MIT Licensed. See [LICENSE](https://github.com/waracle/tf-lumigo/tree/main/LICENSE) for full details.
 
 ---
 
