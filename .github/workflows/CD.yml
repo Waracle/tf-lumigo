@@ -42,8 +42,8 @@ jobs:
         with:
           node-version: ${{ steps.nvm.outputs.NODE_VERSION }}
 
-      - name: NPM Install
-        run: npm ci
+      - name: Yarn Install
+        run: yarn install --immutable --immutable-cache
 
       - name: Semantic Release
         run: npx semantic-release
