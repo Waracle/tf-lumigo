@@ -22,5 +22,8 @@
   "devDependencies": {
     "@jortfal/semantic-release-terraform-config": "1.0.1",
     "semantic-release": "18.0.1"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
   }
 }
