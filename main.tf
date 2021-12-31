@@ -2,7 +2,7 @@ data "aws_iam_policy_document" "assume_role_policy" {
   statement {
     sid = ""
     actions = [
-    "sts:AssumeRole"
+      "sts:AssumeRole"
     ]
     effect = "Allow"
     principals {
@@ -15,7 +15,7 @@ data "aws_iam_policy_document" "assume_role_policy" {
   statement {
     sid = ""
     actions = [
-    "sts:AssumeRole"
+      "sts:AssumeRole"
     ]
     effect = "Allow"
     principals {
@@ -28,7 +28,7 @@ data "aws_iam_policy_document" "assume_role_policy" {
   statement {
     sid = ""
     actions = [
-    "sts:AssumeRole"
+      "sts:AssumeRole"
     ]
     effect = "Allow"
     principals {
