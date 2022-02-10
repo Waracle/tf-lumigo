@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2](https://github.com/Waracle/tf-lumigo/compare/v1.0.1...v1.0.2) (2022-02-10)
+
+
+### Bug Fixes
+
+* Specify minimum version ([bb7040b](https://github.com/Waracle/tf-lumigo/commit/bb7040b38170de6053dc8dc8e94e61b47287e796))
+
 ## [1.0.1](https://github.com/Waracle/tf-lumigo/compare/v1.0.0...v1.0.1) (2021-12-14)
 
 
