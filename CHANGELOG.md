@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3](https://github.com/Waracle/tf-lumigo/compare/v1.0.2...v1.0.3) (2022-06-09)
+
+
+### Bug Fixes
+
+* bump version ([2896429](https://github.com/Waracle/tf-lumigo/commit/28964299a3208eed4866c8985a197b9eb5c2251f))
+
 ## [1.0.2](https://github.com/Waracle/tf-lumigo/compare/v1.0.1...v1.0.2) (2022-02-10)
 
 
